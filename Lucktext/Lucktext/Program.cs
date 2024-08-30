@@ -15,4 +15,4 @@ verb = Console.ReadLine();
 
 Console.Clear();
 Console.WriteLine(name + " åt " + mat + " till middag och senare gick " + name + " och vann " + verb + "kr på casinot");
-Console.ReadLine()
+Console.ReadLine();
